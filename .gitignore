@@ -1,8 +1,8 @@
 # Libraries
-*.lvlibp
 *.llb
+*.lvlibp
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (e.g., DLLs)
 *.dll
 *.so
 *.so.*
@@ -11,7 +11,10 @@
 # Executables
 *.exe
 
-# Metadata
+# Metadata (include necessary files)
+!*.vi  # Include LabVIEW virtual instruments
+!*.lvproj  # Include LabVIEW project files
 *.aliases
 *.lvlps
 .cache/
+
