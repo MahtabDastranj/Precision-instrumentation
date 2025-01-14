@@ -1,2 +1,2 @@
 # Precision instrumentation
- Tasks done for the regarding university course is archieved here
+ Tasks done for the regarding university course are archieved here.
